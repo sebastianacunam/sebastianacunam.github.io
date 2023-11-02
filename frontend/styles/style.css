@@ -474,7 +474,7 @@ p{
     display: none;
 }
 
-@media screen and (max-width: 820px) and (min-width: 451px){
+@media screen and (max-width: 1024px) and (min-width: 481px){
     nav ul {
         display: none;
     }
@@ -757,7 +757,7 @@ p{
     }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 480px) {
     nav ul {
         display: none;
     }
